@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap'); 
+/*fonte(ir no google fonte escolher o regular peso 400  e 700 negrito)*/
 
 :root {
   --color-primary: #4D41C0;
@@ -7,7 +8,7 @@
 * {
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
-}
+} /* asteristico indica que todos os componentes html vão mudar*/
 
 html, body {
     background-color: #E5E5E5;
